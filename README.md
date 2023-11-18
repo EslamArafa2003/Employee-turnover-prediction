@@ -38,6 +38,6 @@ Calculates feature importance using the trained Random Forest model and visualiz
 
 Creates a subplot with three charts: employee attrition rate, feature importance, and department attrition rate. Uses Plotly for interactive visualization.
 
-12. Attrition Rates by Department and Gender:
+11. Attrition Rates by Department and Gender:
 
 Groups data by relevant columns and creates a bar plot to visualize attrition rates by department and gender using Plotly. This provides insights into how attrition varies across different departments and genders.
